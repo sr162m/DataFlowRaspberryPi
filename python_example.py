@@ -6,7 +6,7 @@ import os
 
 dataFlowObject={}
 
-url = 'https://runm-east.dataflow.iot.att.com/63b6a21dd8794/478e18f956a6/d821567aefc0ccc/in/flow/rpimain'
+url = 'YOUR ENDPOINT HERE'
 
 while True:
 	dataFlowObject["deviceID"] = "909456"
